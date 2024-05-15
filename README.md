@@ -1,5 +1,4 @@
-# Canit Role Play - RolePlay project GTA5 on alt:V Multiplayer
-## Version: 0.01
+## Canit Role Play (0.01) - RolePlay project GTA5 on alt:V Multiplayer
 
 ### 0.01
 - Fundamental Settings
