@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "altv-server.exe": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Projects\\altv\\canitrp\\altv-server.exe",
+      "workingDirectory": "C:\\Projects\\altv\\canitrp"
+    }
+  }
+}

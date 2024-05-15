@@ -1,0 +1,2 @@
+main = 'Debug/serverside.dll'
+type = 'csharp'

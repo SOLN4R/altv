@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ll4DOLcFGXiT0/jEnlgnO9ynO9VYRaog46nFsTyif9JicMR1PAH3fRw6/xH+tS6i4YO5WkyZwVgj4rK1H23n3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\altv\\canitrp\\resources\\serverside\\serverside.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\soln4\\.nuget\\packages\\altv.net\\16.0.15\\altv.net.16.0.15.nupkg.sha512",
+    "C:\\Users\\soln4\\.nuget\\packages\\altv.net.async\\16.0.15\\altv.net.async.16.0.15.nupkg.sha512",
+    "C:\\Users\\soln4\\.nuget\\packages\\altv.net.capi\\16.0.15\\altv.net.capi.16.0.15.nupkg.sha512",
+    "C:\\Users\\soln4\\.nuget\\packages\\altv.net.resources.chat.api\\16.0.15\\altv.net.resources.chat.api.16.0.15.nupkg.sha512",
+    "C:\\Users\\soln4\\.nuget\\packages\\altv.net.shared\\16.0.15\\altv.net.shared.16.0.15.nupkg.sha512",
+    "C:\\Users\\soln4\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

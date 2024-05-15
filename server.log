@@ -1,0 +1,29 @@
+[23:49:41] alt:V Server 16.0.155 (release)
+[23:49:41] Starting Canit Role Play on [::]:7788
+[23:49:41] Loading resource chat
+[23:49:42] Loaded resource chat
+[23:49:42] Loading resource serverside
+[23:49:44] Loaded resource serverside
+[23:49:44] Required server permissions:
+[23:49:44] Optional server permissions:
+[23:49:44] Starting HTTP server on [::]:7788
+[23:49:44] Main thread started (ThreadId: 16864)
+[23:49:44] EntityStreamer thread started (ThreadId: 20020)
+[23:49:44] SyncSend thread started (ThreadId: 8424)
+[23:49:44] SyncSend thread started (ThreadId: 8616)
+[23:49:44] SyncSend thread started (ThreadId: 1252)
+[23:49:44] SyncSend thread started (ThreadId: 21180)
+[23:49:44] SyncSend thread started (ThreadId: 18728)
+[23:49:44] SyncSend thread started (ThreadId: 14068)
+[23:49:44] SyncSend thread started (ThreadId: 21964)
+[23:49:44] SyncSend thread started (ThreadId: 11464)
+[23:49:44] SyncReceive thread started (ThreadId: 19552)
+[23:49:44] SyncReceive thread started (ThreadId: 3328)
+[23:49:44] NetworkWorker #1 thread started (ThreadId: 11304)
+[23:49:44] SyncReceive thread started (ThreadId: 14788)
+[23:49:44] SyncReceive thread started (ThreadId: 18168)
+[23:49:44] Console thread started (ThreadId: 16952)
+[23:49:44][Warning] Server started in debug mode
+[23:49:57] Stopping resource chat
+[23:49:57] Stopped resource chat
+[23:49:57] Stopping resource serverside
