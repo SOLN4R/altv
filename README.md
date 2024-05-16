@@ -2,3 +2,4 @@
 
 ### 0.01
 - Fundamental Settings
+- Clientside connection
