@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Projects\\altv\\canitrp\\resources\\serverside\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3280119C-C103-4DD0-A620-E6773F8E93BB}|serverside.csproj|c:\\projects\\altv\\canitrp\\resources\\serverside\\commands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3280119C-C103-4DD0-A620-E6773F8E93BB}|serverside.csproj|solutionrelative:commands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3280119C-C103-4DD0-A620-E6773F8E93BB}|serverside.csproj|c:\\projects\\altv\\canitrp\\resources\\serverside\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3280119C-C103-4DD0-A620-E6773F8E93BB}|serverside.csproj|solutionrelative:events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Commands.cs",
+              "DocumentMoniker": "C:\\Projects\\altv\\canitrp\\resources\\serverside\\Commands.cs",
+              "RelativeDocumentMoniker": "Commands.cs",
+              "ToolTip": "C:\\Projects\\altv\\canitrp\\resources\\serverside\\Commands.cs",
+              "RelativeToolTip": "Commands.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T07:40:08.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Events.cs",
               "DocumentMoniker": "C:\\Projects\\altv\\canitrp\\resources\\serverside\\Events.cs",
               "RelativeDocumentMoniker": "Events.cs",
               "ToolTip": "C:\\Projects\\altv\\canitrp\\resources\\serverside\\Events.cs",
               "RelativeToolTip": "Events.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA6AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-15T20:43:02.837Z",
               "EditorCaption": ""

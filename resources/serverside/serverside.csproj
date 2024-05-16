@@ -11,6 +11,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="Commands.cs" />
     <Compile Include="Core.cs" />
     <Compile Include="Events.cs" />
   </ItemGroup>

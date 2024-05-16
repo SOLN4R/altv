@@ -1,29 +1,34 @@
-[23:49:41] alt:V Server 16.0.155 (release)
-[23:49:41] Starting Canit Role Play on [::]:7788
-[23:49:41] Loading resource chat
-[23:49:42] Loaded resource chat
-[23:49:42] Loading resource serverside
-[23:49:44] Loaded resource serverside
-[23:49:44] Required server permissions:
-[23:49:44] Optional server permissions:
-[23:49:44] Starting HTTP server on [::]:7788
-[23:49:44] Main thread started (ThreadId: 16864)
-[23:49:44] EntityStreamer thread started (ThreadId: 20020)
-[23:49:44] SyncSend thread started (ThreadId: 8424)
-[23:49:44] SyncSend thread started (ThreadId: 8616)
-[23:49:44] SyncSend thread started (ThreadId: 1252)
-[23:49:44] SyncSend thread started (ThreadId: 21180)
-[23:49:44] SyncSend thread started (ThreadId: 18728)
-[23:49:44] SyncSend thread started (ThreadId: 14068)
-[23:49:44] SyncSend thread started (ThreadId: 21964)
-[23:49:44] SyncSend thread started (ThreadId: 11464)
-[23:49:44] SyncReceive thread started (ThreadId: 19552)
-[23:49:44] SyncReceive thread started (ThreadId: 3328)
-[23:49:44] NetworkWorker #1 thread started (ThreadId: 11304)
-[23:49:44] SyncReceive thread started (ThreadId: 14788)
-[23:49:44] SyncReceive thread started (ThreadId: 18168)
-[23:49:44] Console thread started (ThreadId: 16952)
-[23:49:44][Warning] Server started in debug mode
-[23:49:57] Stopping resource chat
-[23:49:57] Stopped resource chat
-[23:49:57] Stopping resource serverside
+[10:47:01] alt:V Server 16.0.155 (release)
+[10:47:01] Starting Canit Role Play on [::]:7788
+[10:47:01] Loading resource chat
+[10:47:01] Loaded resource chat
+[10:47:01] Loading resource serverside
+[10:47:04] Loaded resource serverside
+[10:47:04] Loading resource clientside
+[10:47:04] Loaded resource clientside
+[10:47:04] Required server permissions:
+[10:47:04] Optional server permissions:
+[10:47:04] Starting HTTP server on [::]:7788
+[10:47:04] Main thread started (ThreadId: 5860)
+[10:47:04] EntityStreamer thread started (ThreadId: 16224)
+[10:47:04] SyncSend thread started (ThreadId: 11820)
+[10:47:04] SyncSend thread started (ThreadId: 22252)
+[10:47:04] SyncSend thread started (ThreadId: 21344)
+[10:47:04] SyncSend thread started (ThreadId: 19340)
+[10:47:04] SyncSend thread started (ThreadId: 10664)
+[10:47:04] SyncSend thread started (ThreadId: 8492)
+[10:47:04] SyncSend thread started (ThreadId: 21800)
+[10:47:04] SyncSend thread started (ThreadId: 18524)
+[10:47:04] SyncReceive thread started (ThreadId: 10852)
+[10:47:04] SyncReceive thread started (ThreadId: 15352)
+[10:47:04] SyncReceive thread started (ThreadId: 492)
+[10:47:04] SyncReceive thread started (ThreadId: 10032)
+[10:47:04] NetworkWorker #1 thread started (ThreadId: 2612)
+[10:47:04] Console thread started (ThreadId: 22064)
+[10:47:04][Warning] Server started in debug mode
+[10:47:05] Sending accept 1 SOLN4R
+[10:47:17] [chat:cmd] SOLN4R: /test
+[10:47:31] [chat:cmd] SOLN4R: /test
+[10:47:40] Stopping resource chat
+[10:47:40] Stopped resource chat
+[10:47:40] Stopping resource serverside
