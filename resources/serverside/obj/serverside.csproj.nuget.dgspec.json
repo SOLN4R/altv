@@ -60,6 +60,10 @@
             "AltV.Net.Shared": {
               "target": "Package",
               "version": "[16.0.15, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.4.0, )"
             }
           },
           "imports": [

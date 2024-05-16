@@ -12,12 +12,12 @@ namespace serverside
     {
         public override void OnStart()
         {
-
+            Database.InitConnection();
         }
 
         public override void OnStop()
         {
-
+            Database.CloseConnection();
         }
     }
 }

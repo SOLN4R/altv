@@ -1,34 +1,32 @@
-[10:47:01] alt:V Server 16.0.155 (release)
-[10:47:01] Starting Canit Role Play on [::]:7788
-[10:47:01] Loading resource chat
-[10:47:01] Loaded resource chat
-[10:47:01] Loading resource serverside
-[10:47:04] Loaded resource serverside
-[10:47:04] Loading resource clientside
-[10:47:04] Loaded resource clientside
-[10:47:04] Required server permissions:
-[10:47:04] Optional server permissions:
-[10:47:04] Starting HTTP server on [::]:7788
-[10:47:04] Main thread started (ThreadId: 5860)
-[10:47:04] EntityStreamer thread started (ThreadId: 16224)
-[10:47:04] SyncSend thread started (ThreadId: 11820)
-[10:47:04] SyncSend thread started (ThreadId: 22252)
-[10:47:04] SyncSend thread started (ThreadId: 21344)
-[10:47:04] SyncSend thread started (ThreadId: 19340)
-[10:47:04] SyncSend thread started (ThreadId: 10664)
-[10:47:04] SyncSend thread started (ThreadId: 8492)
-[10:47:04] SyncSend thread started (ThreadId: 21800)
-[10:47:04] SyncSend thread started (ThreadId: 18524)
-[10:47:04] SyncReceive thread started (ThreadId: 10852)
-[10:47:04] SyncReceive thread started (ThreadId: 15352)
-[10:47:04] SyncReceive thread started (ThreadId: 492)
-[10:47:04] SyncReceive thread started (ThreadId: 10032)
-[10:47:04] NetworkWorker #1 thread started (ThreadId: 2612)
-[10:47:04] Console thread started (ThreadId: 22064)
-[10:47:04][Warning] Server started in debug mode
-[10:47:05] Sending accept 1 SOLN4R
-[10:47:17] [chat:cmd] SOLN4R: /test
-[10:47:31] [chat:cmd] SOLN4R: /test
-[10:47:40] Stopping resource chat
-[10:47:40] Stopped resource chat
-[10:47:40] Stopping resource serverside
+[11:55:18] alt:V Server 16.0.155 (release)
+[11:55:18] Starting Canit Role Play on [::]:7788
+[11:55:19] Loading resource chat
+[11:55:19] Loaded resource chat
+[11:55:19] Loading resource serverside
+[11:55:23] [INFO] Соединение с Базой данных установлено.
+[11:55:23] Loaded resource serverside
+[11:55:23] Loading resource clientside
+[11:55:23] Loaded resource clientside
+[11:55:23] Required server permissions:
+[11:55:23] Optional server permissions:
+[11:55:23] Starting HTTP server on [::]:7788
+[11:55:23] Main thread started (ThreadId: 6160)
+[11:55:23] EntityStreamer thread started (ThreadId: 2620)
+[11:55:23] SyncSend thread started (ThreadId: 3584)
+[11:55:23] SyncSend thread started (ThreadId: 8040)
+[11:55:23] SyncSend thread started (ThreadId: 5852)
+[11:55:23] SyncSend thread started (ThreadId: 6828)
+[11:55:23] SyncSend thread started (ThreadId: 22592)
+[11:55:23] SyncSend thread started (ThreadId: 22456)
+[11:55:23] SyncSend thread started (ThreadId: 19516)
+[11:55:23] SyncSend thread started (ThreadId: 22452)
+[11:55:23] SyncReceive thread started (ThreadId: 6780)
+[11:55:23] NetworkWorker #1 thread started (ThreadId: 7264)
+[11:55:23] SyncReceive thread started (ThreadId: 9104)
+[11:55:23] SyncReceive thread started (ThreadId: 10684)
+[11:55:23] SyncReceive thread started (ThreadId: 23744)
+[11:55:23] Console thread started (ThreadId: 22680)
+[11:55:23][Warning] Server started in debug mode
+[11:55:35] Stopping resource chat
+[11:55:35] Stopped resource chat
+[11:55:35] Stopping resource serverside

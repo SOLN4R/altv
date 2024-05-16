@@ -12,11 +12,11 @@ namespace serverside
 {
     public class Commands : IScript
     {
-        [Command("test")]
-        public static void Test(IPlayer iplayer, string Message)
+        [CommandEvent(CommandEventType.CommandNotFound)]
+        public void CommandNotFound(IPlayer iplayer, string command) 
         {
-            Message = "Hello from Serverside!";
-            iplayer.Emit("SERVER_CLIENT_Message", Message);
+            iplayer.SendChatMessage("{E81123}[Ошибка] {FFFFFF}Команды " + command + " не существует.");
+            return;
         }
     }
 }
